@@ -1,0 +1,46 @@
+<root>
+    <bigArray>
+        <array>
+            <dic>
+                <name>Takma 新娘套饰</name>
+                <money>￥1930.00</money>
+            </dic>
+            <dic>
+                <name>珍珠钻石小发卡的魔力-GEMBROS钻石套饰</name>
+                <money>￥2990.00</money>
+            </dic>
+        </array>
+        <array>
+            <dic>
+                <name>璀璨钻石套饰</name>
+                <money>￥1680.00</money>
+            </dic>
+            <dic>
+                <name>名品珠宝项链</name>
+                <money>￥2190.00</money>
+            </dic>
+        </array>
+        <array>
+            <dic>
+                <name>金碧珍珠项链</name>
+                <money>￥4580.00</money>
+            </dic>
+            <dic>
+                <name>富有灵性与生命力的金色珍珠饰品</name>
+                <money>￥7930.00</money>
+            </dic>
+        </array>
+        <array>
+            <dic>
+                <name>炫金摩登-80年代Disco热潮</name>
+                <money>￥5388.00</money>
+            </dic>
+            <dic>
+                <name>冬季精灵-钻石雪花项链</name>
+                <money>￥6618.00</money>
+            </dic>
+        </array>
+    </bigArray>
+</root>
+
+

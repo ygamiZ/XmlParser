@@ -1,0 +1,41 @@
+<root>
+    <section>
+        <bigDic>
+            <group>A</group>
+            <array>
+                <stu>
+                    <name>安永琪</name>
+                    <sex>女</sex>
+                </stu>
+                <stu>
+                    <name>安又琪</name>
+                    <sex>女</sex>
+                </stu>
+            </array>
+        </bigDic>
+        <bigDic>
+            <group>B</group>
+            <array>
+                <stu>
+                    <name>白百合</name>
+                    <sex>女</sex>
+                </stu>
+                <stu>
+                    <name>白素贞</name>
+                    <sex>女</sex>
+                </stu>
+            </array>
+        </bigDic>
+    </section>
+</root>
+
+
+
+
+
+
+
+
+
+
+
